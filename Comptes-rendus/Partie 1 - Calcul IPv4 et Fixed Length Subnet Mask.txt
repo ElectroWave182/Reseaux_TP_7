@@ -1,0 +1,15 @@
+Exercice 1 :
+------------
+
+1)
+29 bits, comme le suggère le masque
+
+2)
+Ce qui en laisse 3 pour la partie hôte
+
+
+Exercice 2 :
+------------
+
+2)
+Elle va de 132.45.64.1 à 132.45.95.254
